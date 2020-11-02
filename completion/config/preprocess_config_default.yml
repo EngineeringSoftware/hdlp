@@ -1,0 +1,10 @@
+all_prevassign: 'false'
+src_seq_length: 200
+src_types:
+- l
+- prevassign
+src_vocab_size: 10004
+tgt_seq_length: 100
+tgt_vocab_size: 10004
+use_copy: 'false'
+dynamic_dict: 'false'

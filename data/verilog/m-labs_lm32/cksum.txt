@@ -1,0 +1,5 @@
+77e1e18b032a6858a71b5b96824190c4 _downloads/verilog/repos/m-labs_lm32/rtl/jtag_cores.v
+e093e8107cec8d7a1e2af54d750607ac _downloads/verilog/repos/m-labs_lm32/rtl/jtag_tap_spartan6.v
+de5d8e0d6e2f2a47bc89e39341d1df24 _downloads/verilog/repos/m-labs_lm32/rtl/lm32_addsub.v
+53b14dfd770c2024911c30469f5c7add _downloads/verilog/repos/m-labs_lm32/rtl/lm32_dp_ram.v
+41d8ee5f8233258df926034b975ce827 _downloads/verilog/repos/m-labs_lm32/rtl/lm32_ram.v

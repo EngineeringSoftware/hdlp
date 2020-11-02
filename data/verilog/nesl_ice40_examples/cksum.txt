@@ -1,0 +1,4 @@
+7ff52329f35f13cb2f8b2f6188676984 _downloads/verilog/repos/nesl_ice40_examples/blank/top.v
+6257f8a70d0a8e350e1b34f72faca060 _downloads/verilog/repos/nesl_ice40_examples/blinky/top.v
+94f38923913af3f48f03b0d2d04d3257 _downloads/verilog/repos/nesl_ice40_examples/fsm_simple/button.v
+3338eda53b43efae0b222a1360635526 _downloads/verilog/repos/nesl_ice40_examples/uart_transmission/uart_trx.v

@@ -1,0 +1,15 @@
+02795860f4e46a3d7476aac8a3f534f6 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/ann/ann.vhd
+93d96e607ddc6de85f7570e501b41868 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/de2.vhd
+71f28556777adf40c4a3f9c0c120ddf1 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/display/display.vhd
+69395547d6709cab2a6e8264febf72e0 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/float/fp_add.vhd
+0b7a8b009c599f4e6b56df4b0cc2455c _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/float/fp_cmp.vhd
+57e346a1eed3ee6581e7ab4522c28387 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/float/fp_div.vhd
+cdd2a59a3ed0f578610990a8a7070417 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/float/fp_exp.vhd
+df39fcb2a7e44be859b5f878a9958ad2 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/float/fp_mul.vhd
+103c5cec4295544c26a1642edbbc2722 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/float/fp_sub.vhd
+27249d412b0f479f93e42c2ac7b148de _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/float/fp.vhd
+4562a00ca5f3a82bbdfa133ba20689f9 _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/lcd/lcd.vhd
+b6e8902e4e1af1b41235862e67c8498e _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/lfsr/lfsr.vhd
+173894d1608db530b5a117f77d96d83c _downloads/vhdl/repos/ziyan_altera-de2-ann/src/lib/sram/sram.vhd
+c5d21d833fd53233df8b1358e036c77f _downloads/vhdl/repos/ziyan_altera-de2-ann/src/pr/patterns.vhd
+595b84f47f816fb05a55d375e3b2fb2b _downloads/vhdl/repos/ziyan_altera-de2-ann/src/pr/pr.vhd

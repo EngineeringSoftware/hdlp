@@ -1,0 +1,13 @@
+ef664e8198761276872525e9a833892e _downloads/verilog/repos/strigeus_fpganes/src/apu.v
+1fc920c837fbdbd5a8faf780091621bf _downloads/verilog/repos/strigeus_fpganes/src/clk_wiz_v3_6.v
+ee8dc3a7d615b176456a1ec39bba2ddb _downloads/verilog/repos/strigeus_fpganes/src/compat.v
+b4f27cf39876cf6c417a70b6dd6f3e6e _downloads/verilog/repos/strigeus_fpganes/src/cpu.v
+8b83f384fe2b27ff72b54fd208919e94 _downloads/verilog/repos/strigeus_fpganes/src/hq2x.v
+7e3a70f2549a10091ca9d24dfb65d5c6 _downloads/verilog/repos/strigeus_fpganes/src/hw_led.v
+3e793e44879d110b2aae007a4f2d7d3a _downloads/verilog/repos/strigeus_fpganes/src/hw_sound.v
+b4cb520bf97a5a79a8e176b102509920 _downloads/verilog/repos/strigeus_fpganes/src/hw_uart.v
+fdbd7705fb5fbb77dbd149e5aadb7f5d _downloads/verilog/repos/strigeus_fpganes/src/mmu.v
+9ad100d5d9a0c9944562a5906f49f010 _downloads/verilog/repos/strigeus_fpganes/src/NES_Nexys4.v
+7dcbf793c7c274a4b9d8cbf2a4ef0c6c _downloads/verilog/repos/strigeus_fpganes/src/nes.v
+b60d78807753e516fb3b64c1226c4333 _downloads/verilog/repos/strigeus_fpganes/src/ppu.v
+1d1ca1465f2e326177287cc269640e90 _downloads/verilog/repos/strigeus_fpganes/src/vga.v

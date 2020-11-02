@@ -1,0 +1,2 @@
+8f0d0ddaff9455a4c22d2b273da6292e _downloads/systemverilog/repos/cluelogic_uvm-tutorial-for-candy-lovers/src/no_source_code.sv
+2e1e92b499946e7527828bbf2402e1e4 _downloads/systemverilog/repos/cluelogic_uvm-tutorial-for-candy-lovers/src/tutorial_29/jelly_bean_if.sv

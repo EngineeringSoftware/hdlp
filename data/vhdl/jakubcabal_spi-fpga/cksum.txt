@@ -1,0 +1,3 @@
+e947b57f010a576b3d3ea0ffc41c99f4 _downloads/vhdl/repos/jakubcabal_spi-fpga/example/comp/btn_debounce.vhd
+209c3fa6b2d81711175c0df9ffba9271 _downloads/vhdl/repos/jakubcabal_spi-fpga/example/comp/sseg_driver.vhd
+f1e4d814a3a1cecfd8ca41cef024634a _downloads/vhdl/repos/jakubcabal_spi-fpga/rtl/spi_slave.vhd

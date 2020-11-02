@@ -1,0 +1,10 @@
+https://github.com/apache/ant.git 0588dc863d891b709a8e3d6d02f8c21d49a5f5f3
+https://github.com/apache/batik.git 602881ed1c518b39b5495f275173995a2f948b92
+https://github.com/apache/cassandra.git 03b528aa2eb469b94e45c0ee305bb41b7cdbb095
+https://github.com/eclipse/e4.tools.git 9d9f6252924b3adcf789db51db8f6238347ca3f5
+https://github.com/apache/log4j.git 8e81c153d32a22742934a05701dd96a1daaa3ebc
+https://github.com/apache/lucene-solr.git 48d41551cb751355a1f2744f90b3d5ca0b041324
+https://github.com/apache/maven-2.git 3a6e724d10e790764735306e0fa013e89b3bc2a9
+https://github.com/apache/maven.git 192fa3e111bef12523ed208abedcfe6a59068be3
+https://github.com/apache/xalan-j.git a00015c6277a96a3b3920ee1935328fab189d3ab
+https://github.com/apache/xerces2-j.git 5a56ab6f5f41587f57c618966b7a2945b8cb08b2

@@ -1,0 +1,6 @@
+599224a0ddce497d8bf7736c0977daef _downloads/verilog/repos/pwmarcz_fpga-chip8/bcd.v
+f55dfe602ca8728ce20bbd3049763a22 _downloads/verilog/repos/pwmarcz_fpga-chip8/gpu.v
+700a4c8b378dd7f63aba4f834222d310 _downloads/verilog/repos/pwmarcz_fpga-chip8/mem.v
+5b6737963999e324f7bcfa1b84a61358 _downloads/verilog/repos/pwmarcz_fpga-chip8/rng.v
+bc72c190e8e210a1c6cda2fd8d1f1f19 _downloads/verilog/repos/pwmarcz_fpga-chip8/screen_bridge.v
+f6744086a5f91a9d28398a4d176792af _downloads/verilog/repos/pwmarcz_fpga-chip8/utils.v

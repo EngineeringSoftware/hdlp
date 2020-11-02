@@ -1,0 +1,11 @@
+6fc13c2ad0e4678f9a8a1c0248e91800 _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/clk_wiz_0_clk_wiz.vhd
+c90554b79f14c7c08c6720f9f3392782 _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/clk_wiz_0.vhd
+0b423abdc934513a7d51174739e17d41 _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/debouncer.vhd
+2d0c4d1d47ce4afe2c3ad539a5ee1c4f _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/GPIO_Demo.vhd
+8ea75c57cefc9c8de7e9cc13790858fb _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/MouseCtl.vhd
+10a75fa7fa4b57dfc9c96756652a6303 _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/MouseDisplay.vhd
+07b20e74f68ff420505ccb1c712f94b5 _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/Ps2Interface.vhd
+1f3d9fe134e62bb0e351eecc296d0300 _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/UART_TX_CTRL.vhd
+ef02868f0d3cdb807b978f1c384c5c0c _downloads/vhdl/repos/Digilent_Basys3/Projects/GPIO/src/hdl/vga_ctrl.vhd
+1f3d9fe134e62bb0e351eecc296d0300 _downloads/vhdl/repos/Digilent_Basys3/Projects/XADC_Demo/src/hdl/UART_TX_CTRL.vhd
+8a7c00bc5ae21f205325dc9498a011ba _downloads/vhdl/repos/Digilent_Basys3/Projects/XADC_Demo/src/ip/xadc_wiz_0_1/xadc_wiz_0.vhd

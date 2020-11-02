@@ -1,0 +1,12 @@
+be93494782edfd41bab2cd069f2df16f _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_basic_01/golden/output.v
+0e23e8f12a04b4966db99a2291b9bc49 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_fieldstruct/golden/output.v
+6b37ecbf7f1e1dd03708541acb902494 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_hello/golden/output.v
+6805f574f5b13ff58b6870c361596099 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_hier_01/golden/output.v
+2d61289cd896fe7d84b7fcbe9e461d3f _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_hier_02/golden/output.v
+f09a0b151998d8d54440c61fbdf48396 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_intr_01/golden/output.v
+b9bc568db4b8e70436c3fe27e5505e15 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_sec_if/golden/output.v
+8a13c08a9c173bce3b978043e6c9e853 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_uvmmem_default/golden/output.v
+d3335975db8d14b0a05b1d92af11ac9d _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_uvmmem_lite/golden/output.v
+195e32fc83371cf96dc76659ac096c42 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_uvmmem_mimic/golden/output.v
+498d5a609996db3f711d87ff0cf30926 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_uvmmem_nums/golden/output.v
+1968238e2388f116b73795958412c2f6 _downloads/verilog/repos/Juniper_open-register-design-tool/test/basic_tests/rdl_write_enable/golden/output.v

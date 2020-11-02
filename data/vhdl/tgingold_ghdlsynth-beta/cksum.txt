@@ -1,0 +1,3 @@
+d80c7b8018f07d50c67b548fc68a45ea _downloads/vhdl/repos/tgingold_ghdlsynth-beta/icestick/uart/hdl/uart_rx.vhd
+0e341cf80934cf49f370cb0e0ff3d2b0 _downloads/vhdl/repos/tgingold_ghdlsynth-beta/icestick/uart/hdl/uart_top.vhd
+e575568fc6efc4d03ffb9a4fe0dfbaa8 _downloads/vhdl/repos/tgingold_ghdlsynth-beta/icestick/uart/hdl/uart_tx.vhd

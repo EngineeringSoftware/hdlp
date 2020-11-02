@@ -1,0 +1,9 @@
+feat: "lpa"
+save_dir: ""
+force_delete: False
+intermediate_data_dir: "intermediate"
+preprocess_config: "preprocess_config_default.yml"
+train_config: "train_config_default_noattn.yml"
+translate_config: "translate_config_default.yml"
+augment: 3
+num_pas: -1

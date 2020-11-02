@@ -1,0 +1,10 @@
+https://github.com/iluwatar/java-design-patterns.git 823c58bef2197c30d7f8a40c2701973ee9a04ea2
+https://github.com/elastic/elasticsearch.git e1a30179ba0bf0f2895e5504cfc6e5235820b32c
+https://github.com/spring-projects/spring-boot.git 078536aded178fa46f26f61a6ada2358e343aeb1
+https://github.com/ReactiveX/RxJava.git 6518eb93be37d72044bfa66b9d00743e6356213b
+https://github.com/square/okhttp.git aad8a1420d8f22a35138b92d7ecc14efc96155fe
+https://github.com/google/guava.git 5496c37d4d904869297c2ced1f0d20e6f1507eaa
+https://github.com/square/retrofit.git dad7e33d001445ca79ad67e3ec300a55274c47c3
+https://github.com/spring-projects/spring-framework.git 972337e8f9424051d90a20e4680eb61037fe5f36
+https://github.com/apache/dubbo.git 4e101490b227052aefaafffbc247d3826297d2b5
+https://github.com/PhilJay/MPAndroidChart.git 726616d0794cabe878100ce8c7e49e9a7351f60c

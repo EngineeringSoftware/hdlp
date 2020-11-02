@@ -1,0 +1,29 @@
+all_prevassign: False
+batch_size: 32
+valid_batch_size: 10
+dec_layers: 2
+dec_rnn_size: 512
+early_stopping: 0
+enc_layers: 2
+enc_rnn_size: 512
+encoder_type: brnn
+copy_attn: False
+consist_reg: False
+gpu_ranks:
+- 0
+keep_checkpoint: 1
+optim: adagrad
+pool_method: fc
+learning_rate: 0.01
+report_every: 25
+rnn_type: GRU
+global_attention: none
+save_checkpoint_steps: 75
+src_types:
+- l
+- type
+src_word_vec_size: 512
+tgt_word_vec_size: 512
+train_steps: 100000
+valid_steps: 75
+world_size: 1

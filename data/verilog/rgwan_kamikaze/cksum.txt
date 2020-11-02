@@ -1,0 +1,7 @@
+5812c874892518e106bcff278e83f922 _downloads/verilog/repos/rgwan_kamikaze/src/compress_decoder.v
+e11c7c3a8e5f19854391790826324a3b _downloads/verilog/repos/rgwan_kamikaze/src/decode.v
+ec72b07cdd4af13316f0a1ad90af1682 _downloads/verilog/repos/rgwan_kamikaze/src/execute.v
+27bb26cee2790a7c6eb354e0b4ff8cf0 _downloads/verilog/repos/rgwan_kamikaze/src/fetch.v
+276e4421d01db6cd2fcabfc634cadf09 _downloads/verilog/repos/rgwan_kamikaze/src/kamikaze.v
+61e88037640e3cba24bed59ba9771761 _downloads/verilog/repos/rgwan_kamikaze/src/tb.v
+4d331476ed0a17bcd3415d49840c4b8f _downloads/verilog/repos/rgwan_kamikaze/src/writeback.v

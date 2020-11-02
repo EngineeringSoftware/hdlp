@@ -1,0 +1,2 @@
+042a6f5cd8411b7f346ae76f6af26329 _downloads/verilog/repos/ZipCPU_wbuart32/rtl/rxuart.v
+67e6971ffdf5165b8925f29b0c5a6d89 _downloads/verilog/repos/ZipCPU_wbuart32/rtl/txuart.v

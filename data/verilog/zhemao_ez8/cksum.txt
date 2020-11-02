@@ -1,0 +1,17 @@
+b9660a99b1c05766da1a0f1101b56c58 _downloads/verilog/repos/zhemao_ez8/processor/rtl/addsub.v
+90c544bcd811033bf3ae9d59bceb0859 _downloads/verilog/repos/zhemao_ez8/processor/rtl/alu.v
+f121ab1c6a957d96dd9dca79aad3fa18 _downloads/verilog/repos/zhemao_ez8/processor/rtl/bitwise.v
+7659dc9ab70e545199887e83a5f677b1 _downloads/verilog/repos/zhemao_ez8/processor/rtl/ez8_cpu.v
+247e0bdf64dbaadc0fe7bd36ce9c8c94 _downloads/verilog/repos/zhemao_ez8/processor/rtl/io_ctrl.v
+dc58ac89659a98214e335c0a75d99063 _downloads/verilog/repos/zhemao_ez8/processor/rtl/megafunctions/gpmem_bb.v
+1483e78c7d7dae3a36b4201697015963 _downloads/verilog/repos/zhemao_ez8/processor/rtl/megafunctions/instr_mem_bb.v
+103e5254a4de9f97373f16c12244db5c _downloads/verilog/repos/zhemao_ez8/processor/rtl/megafunctions/pll/pll_0002.v
+bd7f666f8b3c24ab5f6a64cf6ec731a0 _downloads/verilog/repos/zhemao_ez8/processor/rtl/mem_ctrl.v
+8bb12310d549cd5ca4fc9603ac063d65 _downloads/verilog/repos/zhemao_ez8/processor/rtl/pc_ctrl.v
+efcfb0d241b34525e6d7609c461b3132 _downloads/verilog/repos/zhemao_ez8/processor/rtl/peripherals/led_ctrl.v
+c4517737b511c414860120b4391d6865 _downloads/verilog/repos/zhemao_ez8/processor/rtl/peripherals/millis_timer.v
+c839bbaf4581ebaac1bcc6f71b9e9ada _downloads/verilog/repos/zhemao_ez8/processor/rtl/peripherals/switch_key_ctrl.v
+49a6d10c7199dd906396d3c0069b738b _downloads/verilog/repos/zhemao_ez8/processor/rtl/shifter.v
+cb9615c00b2edaf8f3d4550157fcc1fc _downloads/verilog/repos/zhemao_ez8/processor/rtl/skip_calc.v
+d42a9ff576b00e439ff5d7521cc54c89 _downloads/verilog/repos/zhemao_ez8/processor/rtl/sockit_top.v
+3ce325693a107bd0ed4f6cd3fc714ff4 _downloads/verilog/repos/zhemao_ez8/processor/rtl/stack.v

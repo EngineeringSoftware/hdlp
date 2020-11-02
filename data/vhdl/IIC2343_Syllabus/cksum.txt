@@ -1,0 +1,3 @@
+7f3dc4800d2c7df1379a1fb7b75f696f _downloads/vhdl/repos/IIC2343_Syllabus/Proyecto/common sources/binary_bcd_decoder.vhd
+9c1f23a2ead37e38979cb96cdf4a9ad3 _downloads/vhdl/repos/IIC2343_Syllabus/Proyecto/common sources/Debouncer.vhd
+7f0a4094a24d15c74b7f92df60077a63 _downloads/vhdl/repos/IIC2343_Syllabus/Proyecto/common sources/Display_Controller.vhd

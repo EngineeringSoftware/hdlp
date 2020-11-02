@@ -1,0 +1,10 @@
+691fe3b7f6508bded2858c3ac30f4e06 _downloads/verilog/repos/QShen3_CNN-FPGA/src/Avg_pool.v
+93dab497674f8a4810b7b607ff6e89c4 _downloads/verilog/repos/QShen3_CNN-FPGA/src/Avg.v
+cb10b044da22bd16d481a863c1f15adb _downloads/verilog/repos/QShen3_CNN-FPGA/src/Conv2d.v
+1f862af46dcd9599b846fe7e4970a4eb _downloads/verilog/repos/QShen3_CNN-FPGA/src/ConvKernel.v
+0b110501d56c3728dc00858d0c937600 _downloads/verilog/repos/QShen3_CNN-FPGA/src/FullConnect.v
+879968a5377353a2b426f2b66f122ef6 _downloads/verilog/repos/QShen3_CNN-FPGA/src/Max_pool.v
+eb4061ec994270012821658146d37a56 _downloads/verilog/repos/QShen3_CNN-FPGA/src/Max.v
+2d78139a7235340fd4bef2eff3607233 _downloads/verilog/repos/QShen3_CNN-FPGA/src/Mult.v
+9692983efb3ab0f80b433ab9abda19fe _downloads/verilog/repos/QShen3_CNN-FPGA/src/Relu_activation.v
+842c934836ad741935abe58b87b37b60 _downloads/verilog/repos/QShen3_CNN-FPGA/src/Relu.v

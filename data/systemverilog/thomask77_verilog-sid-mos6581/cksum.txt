@@ -1,0 +1,8 @@
+4dda655ded83faf272592bdb08d76fa7 _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/clk_div.sv
+32ca1234ab8756b5e16c9fd19f933fc4 _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/reset_filter.sv
+a31f2422b2c142333c5409a3d7741d24 _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/sid_acc.sv
+efe26e678fb59897f12bb0640a8178e8 _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/sid_filter.sv
+85e4df3a37c1407acd7c6fd909bb6b16 _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/sid_wave.sv
+0c87ba70f2cd925a9eb9c4c7c107c60a _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/sigma_delta.sv
+d4a319ff54c6fd8d04f35c826bc67fd1 _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/uart_rx.sv
+c0558354f08016bc267e9ba6d9e1bc83 _downloads/systemverilog/repos/thomask77_verilog-sid-mos6581/uart_tx.sv

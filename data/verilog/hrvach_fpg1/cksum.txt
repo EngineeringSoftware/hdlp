@@ -1,0 +1,8 @@
+bc63edc08f271272da594f6fd9f960e8 _downloads/verilog/repos/hrvach_fpg1/src/apll/apll_0002.v
+8f1e4beaadbeb910bc0ff5555803c8eb _downloads/verilog/repos/hrvach_fpg1/src/cpu.v
+edb0120ddee5bfa7dab4ad80195dcccd _downloads/verilog/repos/hrvach_fpg1/src/keyboard.v
+9633b8763ca7d9e9d913fd051b6cad45 _downloads/verilog/repos/hrvach_fpg1/src/sys/pll_hdmi_cfg/altera_pll_reconfig_core.v
+0a545e64e80b24683613917506e60c98 _downloads/verilog/repos/hrvach_fpg1/src/sys/pll_hdmi_cfg/altera_pll_reconfig_top.v
+2f22057d2973a25b9d5116a6bd10b0f3 _downloads/verilog/repos/hrvach_fpg1/src/sys/pll_hdmi/pll_hdmi_0002.v
+f842345ec1d5df1163eeda06f4cfa7ef _downloads/verilog/repos/hrvach_fpg1/src/sys/pll/pll_0002.v
+ea9ceb4b7a1478c520b39d9fc0f0ba0d _downloads/verilog/repos/hrvach_fpg1/src/sys/sigma_delta_dac.v

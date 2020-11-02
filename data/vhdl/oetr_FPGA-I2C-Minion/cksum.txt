@@ -1,0 +1,5 @@
+0aecdd946fd0f7a29e745f7b9d20e7ef _downloads/vhdl/repos/oetr_FPGA-I2C-Minion/debounce.vhd
+27ea6137efbd993d4274a267b4804557 _downloads/vhdl/repos/oetr_FPGA-I2C-Minion/I2C_minion_TB_001_ideal.vhd
+d73286d50042e490950fd6da05f9fdef _downloads/vhdl/repos/oetr_FPGA-I2C-Minion/I2C_minion_TB_002_noisy_scl.vhd
+d4c329355300330160f22eaabb3bd731 _downloads/vhdl/repos/oetr_FPGA-I2C-Minion/I2C_minion.vhd
+bf65aa97046caaa3cfafb54b120a26ae _downloads/vhdl/repos/oetr_FPGA-I2C-Minion/txt_util.vhd

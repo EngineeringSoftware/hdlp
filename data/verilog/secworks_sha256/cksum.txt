@@ -1,0 +1,8 @@
+16674b331ba7fb8a4e047092ee386724 _downloads/verilog/repos/secworks_sha256/src/rtl/sha256_core.v
+33d88b6bd6a8eed0244d92ae44ef3c04 _downloads/verilog/repos/secworks_sha256/src/rtl/sha256_k_constants.v
+c109bf6530aa07c1f7ede9ce7b66bb81 _downloads/verilog/repos/secworks_sha256/src/rtl/sha256_stream.v
+e65ee10276f9a95a8ac09376106a24c8 _downloads/verilog/repos/secworks_sha256/src/rtl/sha256.v
+ae4665b379245992df8999c4ba61e4f4 _downloads/verilog/repos/secworks_sha256/src/rtl/sha256_w_mem.v
+6da51d0e4fa20cfdb3ebd87d127a1b69 _downloads/verilog/repos/secworks_sha256/src/tb/tb_sha256_core.v
+fa034b3b4cb60cba28039682996ca375 _downloads/verilog/repos/secworks_sha256/src/tb/tb_sha256.v
+804eeaa87fd2a9767d3eac8f1dfca44f _downloads/verilog/repos/secworks_sha256/src/tb/tb_sha256_w_mem.v

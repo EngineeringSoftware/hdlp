@@ -1,0 +1,8 @@
+replace_unk: False
+dynamic_dict: False
+verbose: True
+batch_size: 8
+gpu: 0
+min_length: 1
+beam_size: 5
+n_best: 1

@@ -1,0 +1,17 @@
+c8561935a193786197046ca41a1dd3c4 _downloads/vhdl/repos/leros-dev_leros/vhdl/altera/cyc2_pll.vhd
+3c3b8446e9b8842e1f62f45a9d87b87c _downloads/vhdl/repos/leros-dev_leros/vhdl/altera/cyc3_pll.vhd
+64723460fdd0dff4746e697dcf404952 _downloads/vhdl/repos/leros-dev_leros/vhdl/altera/cyc_pll.vhd
+956362a95d5eeb24ad0d02b022a904f9 _downloads/vhdl/repos/leros-dev_leros/vhdl/core/leros_decode.vhd
+790e0372654d1f7782f61f5060d03748 _downloads/vhdl/repos/leros-dev_leros/vhdl/core/leros_ex.vhd
+a33747e55e676c0380853d32b6028dc9 _downloads/vhdl/repos/leros-dev_leros/vhdl/core/leros_fedec.vhd
+e49c50593386eb874cdd3736ab3aa340 _downloads/vhdl/repos/leros-dev_leros/vhdl/core/leros_im.vhd
+10457330f812ee3a52e2ff531c62ce26 _downloads/vhdl/repos/leros-dev_leros/vhdl/core/leros_types.vhd
+0f640a5204bcdebfdebc3307dd231a28 _downloads/vhdl/repos/leros-dev_leros/vhdl/core/leros.vhd
+cefa3771d819ac3e4a900371a3f3f401 _downloads/vhdl/repos/leros-dev_leros/vhdl/io/uart.vhd
+bfdd7ea4954576dd54f5431677690b3e _downloads/vhdl/repos/leros-dev_leros/vhdl/simulation/tb_leros.vhd
+b8445ed70fe29bb27248d67dcfb33f1b _downloads/vhdl/repos/leros-dev_leros/vhdl/test/memfmax.vhd
+282f08dd655685993509c48d7fdf4b1a _downloads/vhdl/repos/leros-dev_leros/vhdl/top/leroscyc12.vhd
+e1475da8225df47aa7283d176a0254b6 _downloads/vhdl/repos/leros-dev_leros/vhdl/top/leros_de2-115.vhd
+fca077dc51793a04ce17adb52f49cc55 _downloads/vhdl/repos/leros-dev_leros/vhdl/top/leros_de2-70.vhd
+2c2bd1af1eee3e37893d8e39ab123965 _downloads/vhdl/repos/leros-dev_leros/vhdl/top/leros_nexys2.vhd
+98b0e1237f6c157e27c9bcaa8961a6a7 _downloads/vhdl/repos/leros-dev_leros/vhdl/xilinx/sp3epll.vhd

@@ -1,0 +1,9 @@
+2c684036a1c9ca0329c8e4520050b9f3 _downloads/systemverilog/repos/luuvish_system-verilog-patterns/spec/driver_if.sv
+31ff43a14659b442ed373258c602e2d3 _downloads/systemverilog/repos/luuvish_system-verilog-patterns/spec/getter_if.sv
+023f1d01adce7a7cf25c6282642a0f53 _downloads/systemverilog/repos/luuvish_system-verilog-patterns/spec/setter_if.sv
+7e774103c6ae09a062b57a3c0f4090ae _downloads/systemverilog/repos/luuvish_system-verilog-patterns/spec/tb_handshake_direct_test.sv
+9b356ce3929ef78a1f2bfb20a751133f _downloads/systemverilog/repos/luuvish_system-verilog-patterns/spec/tb_pipeline_direct_test.sv
+a3214ce426332a13154df3d63ad52e22 _downloads/systemverilog/repos/luuvish_system-verilog-patterns/spec/tb_queue_direct_test.sv
+caa881950c0364a2a9d118696f7111e7 _downloads/systemverilog/repos/luuvish_system-verilog-patterns/src/handshake_if.sv
+d7d7d690937cd70160b9e971fd2b16c7 _downloads/systemverilog/repos/luuvish_system-verilog-patterns/src/pipeline.sv
+f7e7a3fd4d1e2a33ae9975d495cde5d1 _downloads/systemverilog/repos/luuvish_system-verilog-patterns/src/queue_if.sv

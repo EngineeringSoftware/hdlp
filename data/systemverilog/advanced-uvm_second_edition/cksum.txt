@@ -1,0 +1,3 @@
+7bd5f13c2e3c0add2b505d6e72638408 _downloads/systemverilog/repos/advanced-uvm_second_edition/hawkins/verif/vkits/cmn/cmn_pkg.sv
+d94fd5df10af078ac0fca5b89cdaeec2 _downloads/systemverilog/repos/advanced-uvm_second_edition/hawkins/verif/vkits/global/global_pkg.sv
+94d325fb6a13d4b2b13bc561723ffc72 _downloads/systemverilog/repos/advanced-uvm_second_edition/hawkins/verif/vkits/hawk/hawk_pkg.sv

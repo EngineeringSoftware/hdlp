@@ -1,0 +1,5 @@
+134e1fd5b072c35bc43b9422b5e5d588 _downloads/verilog/repos/teknohog_Xilinx-Serial-Miner/sources/hdl/main_pll_2x.v
+b56f84b0f9b41bde0775d1764c599f53 _downloads/verilog/repos/teknohog_Xilinx-Serial-Miner/sources/hdl/main_pll.v
+69968d35353fce38c029447ccafc8389 _downloads/verilog/repos/teknohog_Xilinx-Serial-Miner/sources/hdl/raw7seg.v
+61ca0683fa848f57023e59bf4434dd7b _downloads/verilog/repos/teknohog_Xilinx-Serial-Miner/sources/hdl/serial.v
+2ce30700f77dde71b6ae2b44f524afbb _downloads/verilog/repos/teknohog_Xilinx-Serial-Miner/sources/hdl/sha-256-functions.v

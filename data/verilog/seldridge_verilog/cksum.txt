@@ -1,0 +1,14 @@
+32219f979dd9352f4aad5605b7e67bfd _downloads/verilog/repos/seldridge_verilog/sim/t_button_debounce.v
+38b543bcb959823c8ce9663fca3cd1f2 _downloads/verilog/repos/seldridge_verilog/src/button_debounce.v
+99e722c42739c1eb78d27e0f3c3cde09 _downloads/verilog/repos/seldridge_verilog/src/cordic_cir.v
+214584384348bd2388345dcc812f0777 _downloads/verilog/repos/seldridge_verilog/src/cordic_hyp.v
+45455351aa3e157a7b2231f65a459a29 _downloads/verilog/repos/seldridge_verilog/src/div_pipelined.v
+38032a8246fa6e91c0301457f2ceaa32 _downloads/verilog/repos/seldridge_verilog/src/pipeline_registers_set.v
+d40abe880503bfca8414933c15a84e0a _downloads/verilog/repos/seldridge_verilog/src/pipeline_registers.v
+163c9c2c04cdce5ac61c9b345fadbf36 _downloads/verilog/repos/seldridge_verilog/src/ram_infer.v
+4c6e850feaa5a822f6e3945d0a21e751 _downloads/verilog/repos/seldridge_verilog/src/reset.v
+ae02b052f855454ff13534146541b327 _downloads/verilog/repos/seldridge_verilog/src/sign_extender.v
+2f18bd896509ed45316a939d15a8f73e _downloads/verilog/repos/seldridge_verilog/src/sqrt_generic.v
+ad9a099becf145fe8d0833ccfa711e2a _downloads/verilog/repos/seldridge_verilog/src/sqrt_pipelined.v
+087903c4643d09300a554807cc315423 _downloads/verilog/repos/seldridge_verilog/src/uart_rx.v
+cea2dcdab95234949145e0d513c0ee06 _downloads/verilog/repos/seldridge_verilog/src/uart_tx.v

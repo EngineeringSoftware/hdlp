@@ -1,0 +1,3 @@
+a8d7bf876e515fdc8d0876d142ba6345 _downloads/systemverilog/repos/ucam-comparch_clarvi/bram_altsyncram.sv
+d07de44eb0679f63d37e17ed6da92e9e _downloads/systemverilog/repos/ucam-comparch_clarvi/bram.sv
+d64f978ada3974d1dab676b99ab1b38a _downloads/systemverilog/repos/ucam-comparch_clarvi/clarvi_avalon.sv

@@ -1,0 +1,11 @@
+04c52584f2e61f0514d983a83ef80bba _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/dec/dec_trigger.sv
+a47282cd62d810d2d08b25360dbe5052 _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/dmi/rvjtag_tap.sv
+1bf55a48bba3db5537ef306976b93a5f _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/exu/exu_alu_ctl.sv
+dda0147f13f30238123bf2499316e998 _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/exu/exu_mul_ctl.sv
+23fb1ee4ad1840591ee3cd7455ce4b0d _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/ifu/ifu_compress_ctl.sv
+f6f437f07b5cc4d5a5b07c7966c6a16b _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/ifu/ifu_iccm_mem.sv
+3d8597c2f00dfb5a6e8ead4a049e5029 _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/lib/mem_lib.sv
+dce200752da1684d8dd5af69b166ed60 _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/lsu/lsu_clkdomain.sv
+1c20ca8d5fbefc72fe30a322897aafe4 _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/lsu/lsu_dccm_mem.sv
+afc4368f5888a0dbd77ec8eb52d17722 _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/lsu/lsu_lsc_ctl.sv
+0924aa27d2a6ff741bad23ccb3091c2d _downloads/systemverilog/repos/chipsalliance_Cores-SweRV/design/lsu/lsu_trigger.sv

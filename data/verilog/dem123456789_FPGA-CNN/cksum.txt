@@ -1,0 +1,13 @@
+14ee0df24c77ef60e06fb9dd7ebd99f9 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/adder.v
+d283cbc3712e2f3158a1651f034e500f _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/Eq1 Initial/adder_unit.v
+2a9b4f3cef77d884d124f8239ebba63e _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/Eq1 Initial/convolution.v
+a3e9240c10e1f5f2f5413a57338f01d1 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/Eq1 Initial/equation1.v
+cb1c91700b461811c2dcabc90074b7d6 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/Eq1 Initial/equation2.v
+84c397eae95fc9300e6835efbb7bca97 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/Eq1 Initial/multiplier_unit.v
+6aabcb743996c2eb70f2fd7eae340d52 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/Eq1 Initial/one_by_one.v
+9d07877188184c897f81ed1d3a78cf0f _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/eq1oneunit.v
+b6a1758d791b6dc2c539ea8e8f89bed2 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/eq1.v
+15381c4a0606f5f62c64051c175c3297 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/eq2.v
+fb5a1371beb0265fdc3ab5d2b2aa16f0 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/multiplier.v
+62fc915885e99d50430487a30825bb67 _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/onebyone18mul.v
+1c869b8e2354eb33426a8610cc9b93ad _downloads/verilog/repos/dem123456789_FPGA-CNN/Quartus/onebyone.v

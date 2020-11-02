@@ -1,0 +1,15 @@
+894194ec90c0bcf81cb0e2a35aa2f1b8 _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/Sdram_Control/command.v
+ecc45b60ffa3aba9fc549bb99e46428e _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/Sdram_Control/control_interface.v
+d22f8d6a75b3c79bb5c756bf8741ee14 _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/Sdram_Control/sdr_data_path.v
+ca192f1734868dbd2d1dd5cb8cb22181 _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/v/char_box.v
+aae8e6c1271695b715f86f26aedc0813 _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/v/I2C_Controller.v
+efa2323381fc61f9d153eb7a435462fe _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/v/Reset_Delay.v
+d113afc66c88837d14a00a7edab6fd7e _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/v/rgb2gray.v
+fd35bf307f665a6b61512aa35b08d0a1 _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/v/SEG7_LUT_8.v
+9f1622c7bc053c964dc28a1467c735b4 _downloads/verilog/repos/alan4186_Hardware-CNN/DE2_115_CAMERA/v/SEG7_LUT.v
+a6ebffdea876216c58633fe32a36fb4d _downloads/verilog/repos/alan4186_Hardware-CNN/Hardware/tb/pipeline_tb.v
+2f3ba247f9c9eb8f4f732c532158006d _downloads/verilog/repos/alan4186_Hardware-CNN/Hardware/tb/top_tb.v
+3b5479c4d25e2efea4107cb2e41c898b _downloads/verilog/repos/alan4186_Hardware-CNN/Hardware/v/basic_functions/add_np_mm.v
+e9d3c15eac0217370848ea5b09eec3b7 _downloads/verilog/repos/alan4186_Hardware-CNN/Hardware/v/basic_functions/mult_np_mm.v
+77838f6ab7fbfc3422c931cbb210221f _downloads/verilog/repos/alan4186_Hardware-CNN/Hardware/v/hex_out_final.v
+e68f30b7c1287d1a56531b180d1f86b4 _downloads/verilog/repos/alan4186_Hardware-CNN/Hardware/v/window_wrapper.v

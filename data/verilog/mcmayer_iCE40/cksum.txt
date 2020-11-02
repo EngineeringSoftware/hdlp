@@ -1,0 +1,14 @@
+89811732da648e67491bd35393073013 _downloads/verilog/repos/mcmayer_iCE40/blinky/blinky/blinky.v
+79d142253cc44b6c43342c809e84aa9b _downloads/verilog/repos/mcmayer_iCE40/dac/dac_top_pll.v
+edd07742608bed33d0a8314df9650ca4 _downloads/verilog/repos/mcmayer_iCE40/dac/dac_top.v
+4c0d4cd323f3c576b078a7eecad6728e _downloads/verilog/repos/mcmayer_iCE40/dac/dac.v
+b37088b3803f86c314c1e273072cf590 _downloads/verilog/repos/mcmayer_iCE40/infrared/infrared.v
+7e5b7696c9cc638660a7d4f42e3fd1f1 _downloads/verilog/repos/mcmayer_iCE40/rotary_enc/rotary_enc_top.v
+e6ff7f462c96c144199b634d01daf184 _downloads/verilog/repos/mcmayer_iCE40/rotary_enc/rotary_enc.v
+d701c395b860c884aeffb6220fd10479 _downloads/verilog/repos/mcmayer_iCE40/timing/element_carry.v
+91159c4874f397cd3128f6e88a04ce0f _downloads/verilog/repos/mcmayer_iCE40/timing/element.v
+18028c44f25d30e697dd0112d8263fcd _downloads/verilog/repos/mcmayer_iCE40/timing/timing.v
+26abe7ee19679fd315886074c96b9d01 _downloads/verilog/repos/mcmayer_iCE40/TRNG/flip_flop.v
+11df9612a44f2fc845468c862fe5f8db _downloads/verilog/repos/mcmayer_iCE40/TRNG/trng_top.v
+9209e9d478ee719104af2932517ce7e7 _downloads/verilog/repos/mcmayer_iCE40/uart/osdvu/uart.v
+8235fb9275537769dc60d966b4869ff4 _downloads/verilog/repos/mcmayer_iCE40/uart/uart_top.v

@@ -1,0 +1,5 @@
+ec3b93f887630140ec5f3753d3bcd15d _downloads/systemverilog/repos/pulp-platform_fpnew/src/fpnew_classifier.sv
+ef35a96824b6e5e60ae40d8a2cf0fe01 _downloads/systemverilog/repos/pulp-platform_fpnew/src/fpnew_opgroup_block.sv
+ccb078928c55a7f5b4a02a93228e97a0 _downloads/systemverilog/repos/pulp-platform_fpnew/src/fpnew_opgroup_fmt_slice.sv
+abddb18fe8e2082e017a9a8398023f18 _downloads/systemverilog/repos/pulp-platform_fpnew/src/fpnew_rounding.sv
+e51ecc200e5fd02d55b03a43fa9ba243 _downloads/systemverilog/repos/pulp-platform_fpnew/src/fpnew_top.sv

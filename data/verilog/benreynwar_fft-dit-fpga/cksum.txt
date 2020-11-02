@@ -1,0 +1,3 @@
+b8bc225ff80cd5ae30144a9116b7ab5d _downloads/verilog/repos/benreynwar_fft-dit-fpga/butterfly.v
+a782bc7ea04202cd908e6d00c90b39a2 _downloads/verilog/repos/benreynwar_fft-dit-fpga/dit.v
+0e87850edd2c6996f0c49576f4fce7bc _downloads/verilog/repos/benreynwar_fft-dit-fpga/dut_dit.v
