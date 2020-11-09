@@ -5,6 +5,18 @@ hardware descriptions and models for assignment completion. Details
 can be found in our ESEC/FSE'20 paper "[On the Naturalness of Hardware
 Descriptions](HDLP.pdf)".
 
+If you have used our data or code in a research project, please cite
+the research paper in any related publication:
+```
+@inproceedings{LeeETAL20HDLP,
+  author =       {Jaeseong Lee and Pengyu Nie and Junyi Jessy Li and Milos Gligoric},
+  title =        {On the Naturalness of Hardware Descriptions},
+  booktitle =    {Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages =        {to appear},
+  year =         {2020},
+}
+```
+
 
 # Data
 
