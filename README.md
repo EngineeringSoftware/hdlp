@@ -12,7 +12,7 @@ the research paper in any related publication:
   author =       {Jaeseong Lee and Pengyu Nie and Junyi Jessy Li and Milos Gligoric},
   title =        {On the Naturalness of Hardware Descriptions},
   booktitle =    {Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
-  pages =        {to appear},
+  pages =        {530--542},
   year =         {2020},
 }
 ```
